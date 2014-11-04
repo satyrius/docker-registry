@@ -2,7 +2,7 @@
 
 Docker image based on [original registry image](https://github.com/docker/docker-registry) to fix some S3 connection issues. The issue discussion was started here https://github.com/docker/docker-registry/issues/661, follow the comments for details.
 
-You can pull bulded image from Docker Hub
+You can pull builded image from Docker Hub
 
 ```bash
 docker pull satyrius/registry:latest
