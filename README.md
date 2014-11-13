@@ -1,5 +1,7 @@
 # Docker Registry
 
+**WARNING the original repo has fixed `boto`, and I recoment you to use `registry:0.9.0` instead of this image.**
+
 Docker image based on [original registry image](https://github.com/docker/docker-registry) to fix some S3 connection issues. The issue discussion was started here https://github.com/docker/docker-registry/issues/661, follow the comments for details.
 
 You can pull builded image from Docker Hub
